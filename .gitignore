@@ -1,1 +1,10 @@
 ghpages*
+prometheus*
+
+*.tex
+*.aux
+*.log
+*.cls
+*.out
+
+
