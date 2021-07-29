@@ -34,7 +34,9 @@
     {{ else }}
       {{ $cssOpts := (dict "targetPath" "css/coder.css" ) }}
       {{ $styles := resources.Get "scss/coder.scss" | resources.ExecuteAsTemplate "style.coder.css" . | toCSS $cssOpts | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
+	  <!-- <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" /> -->
+	  <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="" crossorigin="anonymous" media="screen" />
+
     {{ end }}
 
     {{ if .Site.Params.rtl }}
@@ -45,7 +47,9 @@
       {{ else }}
         {{ $cssOpts := (dict "targetPath" "css/coder-rtl.css" ) }}
         {{ $styles := resources.Get "scss/coder-rtl.scss" | resources.ExecuteAsTemplate "style.coder-rtl.css" . | toCSS $cssOpts | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
+		<!-- <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" /> -->
+	    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="" crossorigin="anonymous" media="screen" />
+
       {{ end }}
     {{ end }}
 
@@ -57,7 +61,8 @@
       {{ else }}
         {{ $cssOpts := (dict "targetPath" "css/coder-dark.css" ) }}
         {{ $styles := resources.Get "scss/coder-dark.scss" | resources.ExecuteAsTemplate "style.coder-dark.css" . | toCSS $cssOpts | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
+		<!-- <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" /> -->
+		<link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="" crossorigin="anonymous" media="screen" />
       {{ end }}
     {{ end }}
 
@@ -73,7 +78,8 @@
         <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen">
       {{ else }}
         {{ $styles := resources.Get . | toCSS | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" />
+		<!-- <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous" media="screen" /> -->
+        <link rel="stylesheet" href="{{ $styles.RelPermalink }}" integrity="" crossorigin="anonymous" media="screen" />
       {{ end }}
     {{ end }}
 
@@ -146,7 +152,8 @@
       <script src="{{ $script.RelPermalink }}"></script>
     {{ else }}
       {{ $script := resources.Get "js/coder.js" | minify | fingerprint }}
-      <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+	  <!-- <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script> -->
+      <script src="{{ $script.RelPermalink }}" integrity=""></script>
     {{ end }}
 
     {{ range .Site.Params.customJS }}
