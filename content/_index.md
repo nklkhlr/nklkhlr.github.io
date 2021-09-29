@@ -4,7 +4,8 @@ date: 2021-07-28
 draft: false
 ---
 
-* 09/2021: I will be presenting our work on lipid network analysis at the [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops)
+* 09/2021: I will be presenting our work on lipid network analysis at the [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/) ([slides](https://exbio.wzw.tum.de/ils2021))
+	* All materials from the conference workshop and talk will be available <a href="https://exbio.wzw.tum.de/ils2021">here</a>
 * 07/2021:
 	* My first first author paper is published: __[Investigating Global Lipidome Alterations with the Lipid Network Explorer](https://www.mdpi.com/2218-1989/11/8/488)__.
-	* We are giving a LipiTUM workshop at the [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops). Join us if you want to learn about network methods for lipidomics data analysis and patient stratification.
+	* We are giving a LipiTUM workshop at the [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops) ([slides and example data](https://exbio.wzw.tum.de/ils2021))
