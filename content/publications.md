@@ -29,6 +29,11 @@ __[Susceptibility to diet induced obesity at thermoneutral conditions is indepen
 Sebastian Dieckmann, Akim Strohmeyer, Monja Willershäuser, Stefanie Maurer, Wolfgang Wurst, Susan Marschall, Martin Hrabe de Angelis, Ralf Kühn, Anna Worthmann, Marceline M Fuh, Joerg Heeren, **Nikolai Köhler**, Josch K. Pauling, Martin Klingenspor\
 *bioRxiv*, 2021\
 [Citation](/citations/dieckmann2021ucp1.bib)
+
+__[MoSBi: Automated signature mining for molecular stratification and subtyping](https://www.biorxiv.org/content/10.1101/2021.09.30.462567v1)__\
+Tim Daniel Rose, Thibault Bechtler, Octavia-Andreea Ciora, Kim Anh Lilian Le, Florian Molnar, **Nikolai Köhler**, Jan Baumbach, Richard Roettger, Josch Konstantin Pauling\
+*bioRxiv*, 2021\
+[Citation](/citations/rose2021mosbi.bib)
 \
 \
 \
