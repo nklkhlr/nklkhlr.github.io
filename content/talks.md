@@ -12,6 +12,6 @@ draft: false
 
 # Workshops
 *  __Lipidomics data mining and network analysis__\
-	06/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/program#ils-friday)\
+	06/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops)\
 	[Materials](https://exbio.wzw.tum.de/ils2021/)
 
