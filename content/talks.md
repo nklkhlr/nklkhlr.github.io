@@ -6,6 +6,10 @@ draft: false
 
 # Talks
 <!-- line breaks require double trailing space !-->
+* __Network-based Lipidomics Analysis using the Lipid Network Explorer__\
+	01/12/2022, Virtual Podium ASia Pacific\
+	[Slides](https://docs.google.com/presentation/d/1HZsBA1jRg4-gxg0PMUwjOLBoirgjb9Lqjtr_1TUEAJM/edit?usp=sharing)
+
 *  __Investigation Global Lipidome Alterations with the Lipid Newtork Explorer__\
 	08/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/program#ils-friday)\
 	[Details and slides](https://exbio.wzw.tum.de/ils2021/)
