@@ -4,6 +4,8 @@ date: 2021-07-28
 draft: false
 ---
 
+* 02/2022:
+	* New Preprint Alert: my second first author manuscript is out on [bioRxiv](https://doi.org/10.1101/2022.02.04.479101). We introduce a novel way of performing lipid metabolic network analysis and demonstrate how it can infer enzymatic activity changes using only lipidomics data.
 * 12/2021:
 	* I will present the updates for LINEX coming soon in session 6 at the  [Virtual Podium Asia Pacific](https://virtualpodiumasiap.wixsite.com/vpap2021)
 		* __Update__: happy I won the best short talk award for my session!
