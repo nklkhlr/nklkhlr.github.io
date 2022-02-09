@@ -14,6 +14,6 @@ draft: false
 
 ## Lectures and Seminars
 * Computational Biochemistry (Winter 20/21, Winter 21/22)
-* Systems BioMedicine Course Project Supervision (Winter 20/21)
+* Systems BioMedicine Course Project Supervision (Winter 20/21, Winter 21/22)
 * Problem Based Learning (Winter 21/22)
 
