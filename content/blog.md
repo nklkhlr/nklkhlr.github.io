@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-date: 2021-07-28T10:09:41+02:00
+date: 2022-02-25
 draft: false
 ---
 
@@ -8,8 +8,7 @@ In Progress...
 
 I'm planning to write (somewhat regularly) about
 
-* introduction to metabolomics data-analysis for experimentalists
-* introduction to mass-spectrometry for metabolomics for bioinformaticians
-* machine learning applications in computational biology
-* any other novel methods I find interesting
+* machine learning and topological data analysis applications in computational biology
+* introductions to metabolomics data-analysis for experimentalists
 * occassionally off-topic stuff like communication, experiences as a PhD student etc.
+*

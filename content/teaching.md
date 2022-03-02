@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2021-07-28T09:57:27+02:00
+date: 2021-02-25
 draft: false
 ---
 

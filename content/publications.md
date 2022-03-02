@@ -4,8 +4,23 @@ date: 2021-07-28T09:56:29+02:00
 draft: false
 ---
 
-## Journal Articles
-### 2021
+
+## 2022
+### Preprints
+__[Lipid network and moiety analyses reveal enzymatic dysregulation and altered mechanisms from lipidomics](https://doi.org/10.1101/2022.02.04.479101)__\
+Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, **Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk, Lucie Klischat, Olga Lazareva and Josch Konstantin Pauling\
+*bioRxiv*, 2022\
+[Citation](/citations/2022linex2.bib)
+
+
+## 2021
+### Preprints
+__[MoSBi: Automated signature mining for molecular stratification and subtyping](https://www.biorxiv.org/content/10.1101/2021.09.30.462567v1)__\
+Tim Daniel Rose, Thibault Bechtler, Octavia-Andreea Ciora, Kim Anh Lilian Le, Florian Molnar, **Nikolai Köhler**, Jan Baumbach, Richard Roettger, Josch Konstantin Pauling\
+*bioRxiv*, 2021\
+[Citation](/citations/rose2021mosbi.bib)
+
+### Journal Articles
 __[Investigating Global Lipidome Alterations with the Lipid Network Explorer.](https://www.mdpi.com/2218-1989/11/8/488)__\
 **Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk and Josch Konstantin Pauling\
 *Metabolites*, 2021\
@@ -21,25 +36,13 @@ Sebastian Dieckmann, Akim Strohmeyer, Monja Willershäuser, Stefanie Maurer, Wol
 *American Journal of Physiology-Endocrinology and Metabolism*, 2021\
 [Citation](/citations/dieckmann2021ucp1.bib)
 
-### 2019
+
+## 2019
+### Journal Articles
 __[Pyrrolizidine Alkaloids: Biosynthesis, Biological Activities and Occurrence in Crop Plants ](https://www.mdpi.com/1420-3049/24/3/498)__\
 Sebastian Schramm, **Nikolai Köhler**, Wilfried Rozhon\
 *Molecules*, 2019\
 [Citation](/citations/schramm2018pa_review.bib)
-
-
-## Preprints
-### 2022
-__[Lipid network and moiety analyses reveal enzymatic dysregulation and altered mechanisms from lipidomics](https://doi.org/10.1101/2022.02.04.479101)__\
-Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, **Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk, Lucie Klischat, Olga Lazareva and Josch Konstantin Pauling\
-*bioRxiv*, 2022\
-[Citation](/citations/2022linex2.bib)
-
-### 2021
-__[MoSBi: Automated signature mining for molecular stratification and subtyping](https://www.biorxiv.org/content/10.1101/2021.09.30.462567v1)__\
-Tim Daniel Rose, Thibault Bechtler, Octavia-Andreea Ciora, Kim Anh Lilian Le, Florian Molnar, **Nikolai Köhler**, Jan Baumbach, Richard Roettger, Josch Konstantin Pauling\
-*bioRxiv*, 2021\
-[Citation](/citations/rose2021mosbi.bib)
 \
 \
 \

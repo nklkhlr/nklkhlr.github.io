@@ -1,9 +1,11 @@
 ---
 title: "News"
-date: 2021-07-28
+date: 2022-03-02
 draft: false
 ---
 
+* 03/2022:
+	* Our ensemble [biclustering approach](https://www.biorxiv.org/content/10.1101/2021.09.30.462567v1) has been accepted for publication in [PNAS](https://www.pnas.org/)
 * 02/2022:
 	* New Preprint Alert: my second first author manuscript is out on [bioRxiv](https://doi.org/10.1101/2022.02.04.479101). We introduce a novel way of performing lipid metabolic network analysis and demonstrate how it can infer enzymatic activity changes using only lipidomics data.
 * 12/2021:
@@ -18,3 +20,4 @@ draft: false
 * 07/2021:
 	* My first first author paper is published: __[Investigating Global Lipidome Alterations with the Lipid Network Explorer](https://www.mdpi.com/2218-1989/11/8/488)__.
 	* We are giving a LipiTUM workshop at the [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops). Join us if you want to learn about network methods for lipidomics data analysis and patient stratification.
+
