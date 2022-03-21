@@ -5,10 +5,16 @@ draft: false
 ---
 
 # Talks
-<!-- line breaks require double trailing space !-->
 * __Network-based Lipidomics Analysis using the Lipid Network Explorer__\
-	01/12/2022, Virtual Podium Asia Pacific\
-	[Slides](https://docs.google.com/presentation/d/1HZsBA1jRg4-gxg0PMUwjOLBoirgjb9Lqjtr_1TUEAJM/edit?usp=sharing)
+	21/03/2022, [10{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Workshop in Lipidomics](http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf)\
+	Slides following
+	<!-- [Slides](/talks/foodlipidomics_workshop.pdf) !-->
+
+
+<!-- line breaks require double trailing space !-->
+* __Network-based Lipidomics Analysis using the Lipid Network Explorer__ (best presentation award)\
+	01/12/2021, Virtual Podium Asia Pacific\
+	[Slides](/talks/VPAPTalk_NikolaiKoehler.pdf)
 
 *  __Investigation Global Lipidome Alterations with the Lipid Newtork Explorer__\
 	08/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/program#ils-friday)\
