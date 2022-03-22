@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Talks
-* __Network-based Lipidomics Analysis using the Lipid Network Explorer__\
+* __Lipid metabolic network analysis for inferring mechanistic changes in enzyme activity__\
 	21/03/2022, [10{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Workshop in Lipidomics](http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf)\
 	Slides following
 	<!-- [Slides](/talks/foodlipidomics_workshop.pdf) !-->
