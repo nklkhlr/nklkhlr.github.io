@@ -13,14 +13,18 @@ Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, **Nikola
 [Citation](/citations/2022linex2.bib)
 
 
-## 2021
-### Preprints
-__[MoSBi: Automated signature mining for molecular stratification and subtyping](https://www.biorxiv.org/content/10.1101/2021.09.30.462567v1)__\
+## 2022
+### Journal Articles
+__[MoSBi: Automated signature mining for molecular stratification and subtyping](https://doi.org/10.1101/2021.09.30.462567)__\
 Tim Daniel Rose, Thibault Bechtler, Octavia-Andreea Ciora, Kim Anh Lilian Le, Florian Molnar, **Nikolai Köhler**, Jan Baumbach, Richard Roettger, Josch Konstantin Pauling\
-*bioRxiv*, 2021\
+Proceedings of the National Academy of Science U.S.A. (PNAS), 2022\
 [Citation](/citations/rose2021mosbi.bib)
 
-### Journal Articles
+__[Kupffer cells are protective in alcoholic steatosis.](https://www.sciencedirect.com/science/article/abs/pii/S0925443922000680)__\
+**Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Marcus Höring{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Beate Czepukojc{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Christa Buechler, Tarek Kröhler, Johannes Haybaeck, Gerhard Liebisch, Josch K. Pauling, Sonja M. Kessler, Alexandra K. Kiemer\
+Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 2022\
+[Citation](/citations/koehler2022kupffer.bib)
+
 __[Investigating Global Lipidome Alterations with the Lipid Network Explorer.](https://www.mdpi.com/2218-1989/11/8/488)__\
 **Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk and Josch Konstantin Pauling\
 *Metabolites*, 2021\
