@@ -8,6 +8,7 @@ draft: false
 ### Bioinformatics
 * "Development of a Deep Learning Model for the Detection and Prediction of Characteristic Fragmentation Patterns in Lipid Mass Spectra"
 * "Network Integration of Metabolome and Microbiome Data using Local Search Optimisation"
+* "Imputing Common Lipids to Improve Network Connectivity of Lipid Metabolic Networks"
 
 ### Molecular Biotechnology
 * "A Network-based Meta-Analysis to Link Nutritional Metabolites to Lipid Metabolism and Related Diseases"
