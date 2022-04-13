@@ -4,9 +4,10 @@ date: 2022-03-02
 draft: false
 ---
 
+* 04/2022:
+	* Our ensemble biclustering approach is out in PNAS. Go check it out [here](https://www.pnas.org/doi/10.1073/pnas.2118210119)
 * 03/2022:
 	* I will give a keynote presenting our work on inferring differential reaction activity from lipidomics data at the [10{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Workshop in Lipidomics](http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf)
-	* Our [ensemble biclustering approach](https://www.biorxiv.org/content/10.1101/2021.09.30.462567v1) has been accepted for publication in [PNAS](https://www.pnas.org/)
 * 02/2022:
 	* New Preprint Alert: my second first author manuscript is out on [bioRxiv](https://doi.org/10.1101/2022.02.04.479101). We introduce a novel way of performing lipid metabolic network analysis and demonstrate how it can infer enzymatic activity changes using only lipidomics data.
 * 12/2021:
