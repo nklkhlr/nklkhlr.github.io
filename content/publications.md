@@ -7,7 +7,7 @@ draft: false
 
 ## 2022
 ### Preprints
-__[Lipid network and moiety analyses reveal enzymatic dysregulation and altered mechanisms from lipidomics](https://doi.org/10.1101/2022.02.04.479101)__\
+__[Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data](https://doi.org/10.1101/2022.02.04.479101)__\
 Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, **Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk, Lucie Klischat, Olga Lazareva and Josch Konstantin Pauling\
 *bioRxiv*, 2022\
 [Citation](/citations/2022linex2.bib)
