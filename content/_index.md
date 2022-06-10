@@ -4,12 +4,14 @@ date: 2022-03-02
 draft: false
 ---
 
+* 06/2022:
+	* We published an update version of the LINEX{{<mathjax/inline>}}\(^{2}\){{</mathjax/inline>}}  manuscript on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.04.479101v2.abstract)
 * 04/2022:
 	* Our ensemble biclustering approach is out in PNAS. Go check it out [here](https://www.pnas.org/doi/10.1073/pnas.2118210119)
 * 03/2022:
 	* I will give a keynote presenting our work on inferring differential reaction activity from lipidomics data at the [10{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Workshop in Lipidomics](http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf)
 * 02/2022:
-	* New Preprint Alert: my second first author manuscript is out on [bioRxiv](https://doi.org/10.1101/2022.02.04.479101). We introduce a novel way of performing lipid metabolic network analysis and demonstrate how it can infer enzymatic activity changes using only lipidomics data.
+	* New Preprint Alert: my second first author manuscript is out on [bioRxiv](https://doi.org/10.1101/2022.02.04.479101). We introduce a novel way of performing lipid metabolic network analysis (in the LINEX framework) and demonstrate how it can infer enzymatic activity changes using only lipidomics data.
 * 12/2021:
 	* I will present the updates for LINEX coming soon in session 6 at the  [Virtual Podium Asia Pacific](https://virtualpodiumasiap.wixsite.com/vpap2021)
 		* __Update__: happy I won the best short talk award for my session!
