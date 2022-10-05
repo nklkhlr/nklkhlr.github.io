@@ -4,8 +4,10 @@ date: 2022-03-02
 draft: false
 ---
 
+* 10/2022
+* 	* I'll be at [ICSB 2022](https://www.icsb2022.berlin/) presenting our lipid metabolic network enrichment method
 * 06/2022:
-	* We published an update version of the LINEX{{<mathjax/inline>}}\(^{2}\){{</mathjax/inline>}}  manuscript on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.04.479101v2.abstract)
+	* We published an update version of the LINEX{{<mathjax/inline>}}\(^{2}\){{</mathjax/inline>}} manuscript on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.04.479101v2.abstract)
 * 04/2022:
 	* Our ensemble biclustering approach is out in PNAS. Go check it out [here](https://www.pnas.org/doi/10.1073/pnas.2118210119)
 * 03/2022:
