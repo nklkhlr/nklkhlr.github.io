@@ -6,8 +6,8 @@ draft: false
 
 # Talks
 * __Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data__\
-	10/10/2022 [ICSB 2022](https://easychair.org/smart-program/ICSB2022/2022-10-10.html)\
-	*Slides follwing*
+	10/10/2022, [ICSB 2022](https://easychair.org/smart-program/ICSB2022/2022-10-10.html)\
+	[Slides](/talks/LINEX_ICSB22.pdf)
 
 * __Lipid metabolic network analysis for inferring mechanistic changes in enzyme activity__\
 	21/03/2022, [10{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Workshop in Lipidomics](http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf)\
