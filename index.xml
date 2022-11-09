@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Nikolai Köhler</title><link>https://nklkhlr.github.io/</link><description>Recent content in News on Nikolai Köhler</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nklkhlr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog</title><link>https://nklkhlr.github.io/blog/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/blog/</guid><description>In Progress&amp;hellip;
 I&amp;rsquo;m planning to write (somewhat regularly) about
-machine learning and topological data analysis applications in computational biology introductions to metabolomics data-analysis for experimentalists occassionally off-topic stuff like communication, experiences as a PhD student etc.</description></item><item><title>Talks</title><link>https://nklkhlr.github.io/talks/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/talks/</guid><description>Talks Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data
+machine learning and topological data analysis applications in computational biology introductions to metabolomics data-analysis for experimentalists occassionally off-topic stuff like communication, experiences as a PhD student etc.</description></item><item><title>Talks</title><link>https://nklkhlr.github.io/talks/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/talks/</guid><description>Talks Reaction-Centered Metabolic Network Analysis
+10/10/2022, Munich Metabolomics Meeting 2022
+Slides
+Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data
 10/10/2022, ICSB 2022
 Slides
 Lipid metabolic network analysis for inferring mechanistic changes in enzyme activity
@@ -9,8 +12,7 @@ Slides
 Network-based Lipidomics Analysis using the Lipid Network Explorer (best presentation award)
 01/12/2021, Virtual Podium Asia Pacific
 Slides
-Investigation Global Lipidome Alterations with the Lipid Newtork Explorer
-08/10/2021, 1\(^{st}\) ILS conference/7\(^{th}\) Lipidomics Forum</description></item><item><title>Publications</title><link>https://nklkhlr.github.io/publications/</link><pubDate>Wed, 28 Jul 2021 09:56:29 +0200</pubDate><guid>https://nklkhlr.github.io/publications/</guid><description>2022 Preprints Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data
+Investigation Global Lipidome Alterations with the Lipid Newtork Explorer</description></item><item><title>Publications</title><link>https://nklkhlr.github.io/publications/</link><pubDate>Wed, 28 Jul 2021 09:56:29 +0200</pubDate><guid>https://nklkhlr.github.io/publications/</guid><description>2022 Preprints Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data
 Tim Daniel Rose\(^{\dagger}\) , Nikolai Köhler\(^{\dagger}\) , Lisa Falk, Lucie Klischat, Olga Lazareva and Josch Konstantin Pauling
 bioRxiv, 2022
 Citation
