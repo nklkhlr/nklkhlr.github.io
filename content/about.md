@@ -11,4 +11,4 @@ I am also interested in applying computational models to real-world data. At the
 
 <!-- TODO: add a note on what I also enjoy (TDA, etc.) -->
 
-For details on my road to being a PhD student, please refer to my [academic CV](/cv/NikolaiKoehler_academicCV2204.pdf)
+For details on my road to being a PhD student, please refer to my [academic CV](/cv/NikolaiKoehler_academicCV2301.pdf)

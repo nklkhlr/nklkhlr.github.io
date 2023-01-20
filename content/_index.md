@@ -4,8 +4,12 @@ date: 2022-03-02
 draft: false
 ---
 
+
+* 01/2023
+	* Our [work on Lipid Network Analysis](https://academic.oup.com/bib/article/24/1/bbac572/6966533) is finally published in Briefings in Bioinformatics
+	* A [review on computational epilipidomics](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c04406) I contributed to is now available in Analytical Chemistry
 * 10/2022
-* 	* I'll be at [ICSB 2022](https://www.icsb2022.berlin/) presenting our lipid metabolic network enrichment method
+ 	* I'll be at [ICSB 2022](https://www.icsb2022.berlin/) presenting our lipid metabolic network enrichment method
 * 06/2022:
 	* We published an update version of the LINEX{{<mathjax/inline>}}\(^{2}\){{</mathjax/inline>}} manuscript on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.04.479101v2.abstract)
 * 04/2022:

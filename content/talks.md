@@ -6,7 +6,7 @@ draft: false
 
 # Talks
 * __Reaction-Centered Metabolic Network Analysis__\
-	10/10/2022, [Munich Metabolomics Meeting 2022](https://www.munichmetabolomics.com/)\
+	13/10/2022, [Munich Metabolomics Meeting 2022](https://www.munichmetabolomics.com/)\
 	[Slides](/talks/MMM_2022.pdf)
 
 * __Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data__\

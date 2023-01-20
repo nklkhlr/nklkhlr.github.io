@@ -14,7 +14,7 @@ draft: false
 * "A Network-based Meta-Analysis to Link Nutritional Metabolites to Lipid Metabolism and Related Diseases"
 
 ## Lectures and Seminars
-* Computational Biochemistry (Winter 20/21, Winter 21/22)
-* Systems BioMedicine Course Project Supervision (Winter 20/21, Winter 21/22)
+* Computational Biochemistry (Winter 20/21, Winter 21/22, Winter 22/23)
+* Systems BioMedicine Course Project Supervision (Winter 20/21, Winter 21/22, Winter 22/23)
 * Problem Based Learning (Winter 21/22)
 
