@@ -1,3 +1,4 @@
+# adapted from https://github.com/peaceiris/actions-hugo
 name: github pages
 
 on:
@@ -8,9 +9,9 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           submodules: false # Fetch Hugo themes (true OR recursive) => turned off for now (modfications to hugo-coder)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
