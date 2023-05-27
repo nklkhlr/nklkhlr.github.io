@@ -4,7 +4,8 @@ date: 2022-03-02
 draft: false
 ---
 
-
+* 05/2023:
+	* The latest main publication from my PhD work is out on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.15.540613v1.abstract). We present a novel approach to infer changes in metabolic reaction activity from metabolomics data using metabolic networks.
 * 01/2023
 	* Our [work on Lipid Network Analysis](https://academic.oup.com/bib/article/24/1/bbac572/6966533) is finally published in Briefings in Bioinformatics
 	* A [review on computational epilipidomics](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c04406) I contributed to is now available in Analytical Chemistry

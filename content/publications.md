@@ -7,6 +7,12 @@ draft: false
 
 ## 2023
 
+### Preprints
+__[Identification and Integration of Key-Metabolic Reactions from Untargeted Metabolomics Data](https://doi.org/10.1101/2023.05.15.540613)__\
+**Nikolai Köhler**, Vivian Würf, Tim Daniel Rose and Josch Konstantin Pauling\
+*bioRxiv*, 2023
+[Citation](/citations/koehler2023mantra.bib)
+
 ### Journal Articles
 __[Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data](https://academic.oup.com/bib/article/24/1/bbac572/6966533)__\
 Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, **Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk, Lucie Klischat, Olga Lazareva and Josch Konstantin Pauling\
