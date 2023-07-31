@@ -4,6 +4,8 @@ date: 2022-03-02
 draft: false
 ---
 
+* 08/2023:
+	* I will be at the [8{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ilsconf.org). Joins us for a workshop on Lipidomics Data Analysis and my poster on Network-Guided Lipidomics Data Analysis
 * 05/2023:
 	* The latest main publication from my PhD work is out on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.15.540613v1.abstract). We present a novel approach to infer changes in metabolic reaction activity from metabolomics data using metabolic networks.
 * 01/2023

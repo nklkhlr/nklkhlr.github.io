@@ -27,7 +27,16 @@ draft: false
 	08/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/program#ils-friday)\
 	[Details and slides](https://exbio.wzw.tum.de/ils2021/)
 
+# Posters
+* __Interpretable Lipid Structure and Network Analysis__\
+	29/08/2023, [8{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ilsconf.org)\
+	[Poster](/talks/LINEX2_ILS2023.pdf)
+
 # Workshops
+*  __Lipidomics data mining and network analysis__\
+	06/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops)\
+	[Materials](https://exbio.wzw.tum.de/ils2021/)
+
 *  __Lipidomics data mining and network analysis__\
 	06/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops)\
 	[Materials](https://exbio.wzw.tum.de/ils2021/)
