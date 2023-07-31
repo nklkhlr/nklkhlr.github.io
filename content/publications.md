@@ -10,8 +10,14 @@ draft: false
 ### Preprints
 __[Identification and Integration of Key-Metabolic Reactions from Untargeted Metabolomics Data](https://doi.org/10.1101/2023.05.15.540613)__\
 **Nikolai Köhler**, Vivian Würf, Tim Daniel Rose and Josch Konstantin Pauling\
-*bioRxiv*, 2023
+*bioRxiv*, 2023\
 [Citation](/citations/koehler2023mantra.bib)
+
+__[Barley shows reduced Fusarium Head Blight under drought and modular expression of differential expressed genes under combined stress](https://doi.org/10.1101/2023.02.15.528674)__\
+Felix Hoheneder{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Christina E Steidele{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Maxim Messerer, Klaus Mayer, **Nikolai Köhler**, Christine Wurmser, Michael Heß, Michael Gigl, Corinna Dawid, Remco Stam, Ralph Hückelhoven\
+*bioRxiv*, 2023\
+[Citation](/citations/hohender2023barley.bib)
+
 
 ### Journal Articles
 __[Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data](https://academic.oup.com/bib/article/24/1/bbac572/6966533)__\

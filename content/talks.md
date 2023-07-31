@@ -32,6 +32,11 @@ draft: false
 	29/08/2023, [8{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ilsconf.org)\
 	[Poster](/talks/LINEX2_ILS2023.pdf)
 
+*  __mantra: Metabolic-Network Analysis to Identify Changes in Reaction Activity__\
+	12/09/2023, [German Conference on Bioinformatics 2023](https://gcb2023.de/)\
+	[Poster](/talks/mantra_GCB2023.pdf)
+
+
 # Workshops
 *  __Lipidomics data mining and network analysis__\
 	06/10/2021, [1{{<mathjax/inline>}}\(^{st}\){{</mathjax/inline>}} ILS conference/7{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ils2021.org/workshops)\
