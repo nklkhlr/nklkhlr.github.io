@@ -12,7 +12,7 @@ enableEmoji = true
 author = "Nikolai K\u00F6hler"
 description = "Nikolai K\u00F6hler's personal website"
 keywords = "blog,bioinformatics,metabolomics"
-info = ["Hi, I'm Nikolai, a PhD Student in Bioinformatics in the LipiTUM group at the Chair of Experimental Bioinformatics at the Technical University of Munich"]
+info = ["Hi, I'm Nikolai, a Postdoctoral Researcher in the Velten lab at the University of Heidelberg working on Machine Learning for Spatial Omics data. Previously I did my doctorate in Computational Biology at the Technical University of Munich."]
 avatarURL = "images/avatar.png"
 footerContent = ""
 dateFormat = "January 2, 2006"
@@ -29,7 +29,7 @@ rtl = false
 # "auto" (use preference set by browser)
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
-colorScheme = "dark"
+colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count
@@ -60,11 +60,11 @@ icon = "fa fa-twitter"
 weight = 4
 url = "https://twitter.com/nklkhlr/"
 
-# [[params.social]]
-# name = "LinkedIn"
-# icon = "fa fa-linkedin"
-# weight = 4
-# url = "https://www.linkedin.com/in/johndoe/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/nikolai-köhler-a79b3b300"
 
 [[params.social]]
 name = "Orcid"
