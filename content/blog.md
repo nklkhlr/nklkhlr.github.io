@@ -4,11 +4,14 @@ date: 2022-02-25
 draft: false
 ---
 
-In Progress...
-
-I'm planning to write (somewhat regularly) about
+Future blog post topics
 
 * machine learning and topological data analysis applications in computational biology
-* introductions to metabolomics data-analysis for experimentalists
-* occassionally off-topic stuff like communication, experiences as a PhD student etc.
-*
+* ML for spatio-temporal data
+* [JAX](https://jax.readthedocs.io)-related topics
+
+<!--
+## Posts
+
+* [Conditional Flow Matching in JAX]({{< ref "/blog/jax_cfm.md" >}})
+-->

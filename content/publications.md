@@ -13,6 +13,11 @@ __[Identification and Integration of Key-Metabolic Reactions from Untargeted Met
 *bioRxiv*, 2023\
 [Citation](/citations/koehler2023mantra.bib)
 
+__[Exclusive Enteral Nutrition Initiates Individual Protective Microbiome Changes to Induce Remission in Pediatric Crohn’s Disease](https://doi.org/10.1101/2023.12.21.23300351)__\
+Deborah Haecker, Kolja Siebert, Byron J Smith, **Nikolai Köhler**, Aritra Mahapatra, Helena Heimes, Amira Metwaly, Hannes Hölz, Quirin Manz, Federica De Zen, Jeannine Heetmeyer, Katharina Socas, Giang Le Thi, Chen Meng, Karin Kleigrewe, Josch K Pauling, Klaus Neuhaus, Markus List, Katherine S Pollard, Tobias Schwerd, Dirk Haller\
+*medRxiv*, 2023\
+[Citation](/citations/haecker2023exclusive.bib)
+
 __[Barley shows reduced Fusarium Head Blight under drought and modular expression of differential expressed genes under combined stress](https://doi.org/10.1101/2023.02.15.528674)__\
 Felix Hoheneder{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Christina E Steidele{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Maxim Messerer, Klaus Mayer, **Nikolai Köhler**, Christine Wurmser, Michael Heß, Michael Gigl, Corinna Dawid, Remco Stam, Ralph Hückelhoven\
 *bioRxiv*, 2023\
