@@ -28,6 +28,9 @@ draft: false
 	[Details and slides](https://exbio.wzw.tum.de/ils2021/)
 
 # Posters
+* __Identifying Changes in RNA Localization__\
+    09/09/2024, [Ascona Workshop on Spatial and Temporal Statistical Modeling in Molecular Biology](https://www.huber.embl.de/group/events/ascona2024.html)
+
 * __Interpretable Lipid Structure and Network Analysis__\
 	29/08/2023, [8{{<mathjax/inline>}}\(^{th}\){{</mathjax/inline>}} Lipidomics Forum](https://ilsconf.org)\
 	[Poster](/talks/LINEX2_ILS2023.pdf)
