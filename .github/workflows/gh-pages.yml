@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: false # Fetch Hugo themes (true OR recursive) => turned off for now (modfications to hugo-coder)
+          submodules: true  # Fetch Hugo themes (true OR recursive) => turned off for now (modfications to hugo-coder)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
