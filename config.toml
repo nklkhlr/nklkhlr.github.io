@@ -2,7 +2,7 @@ baseURL = "https://nklkhlr.github.io/"
 languageCode = "en"
 title = "Nikolai K\u00F6hler"
 theme = "hugo-coder"
-paginate = 20
+paginate = 6
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
@@ -39,43 +39,43 @@ maxSeeAlsoItems = 5
 name = "Mail"
 icon = "fa fa-envelope"
 weight = 1
-url = "mailto:nikolai.koehler@tum.de"
+url = "mailto:nikolai.koehler@cos.uni-heidelberg.de"
 
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-github"
+icon = "fa-brands fa-github"
 weight = 2
 url = "https://github.com/nklkhlr/"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab"
-weight = 3
-url = "https://gitlab.lrz.de/nklkhlr/"
+# [[params.social]]
+# name = "Gitlab"
+# icon = "fa fa-gitlab"
+# weight = 3
+# url = "https://gitlab.lrz.de/nklkhlr/"
 
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-twitter"
-weight = 4
+icon = "fa-brands fa-x-twitter"
+weight = 6
 url = "https://twitter.com/nklkhlr/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-linkedin"
-weight = 4
+icon = "fa-brands fa-linkedin"
+weight = 3
 url = "https://www.linkedin.com/in/nikolai-köhler-a79b3b300"
 
 [[params.social]]
 name = "Orcid"
-icon = "fa fa-orcid"
-weight = 5
+icon = "fa-brands fa-orcid"
+weight = 4
 url = "https://orcid.org/0000-0002-5103-883X"
 
 [[params.social]]
 name = "Scholar"
-icon = "ai ai-google-scholar"
-weight = 6
+icon = "fa-brands fa-google-scholar"
+weight = 5
 url = "https://scholar.google.com/citations?user=R-szd0IAAAAJ&hl=en&oi=ao"
 
 [languages.en]
@@ -98,11 +98,11 @@ url = "talks/"
 
 [[languages.en.menu.main]]
 name = "Teaching"
-weight = 3
+weight = 4
 url = "teaching/"
 
 [[languages.en.menu.main]]
 name = "About"
-weight = 4
+weight = 5
 url = "about/"
 
