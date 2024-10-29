@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on</title><link>/</link><description>Recent content in News on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Conditional Flow Matching in JAX</title><link>/blog/jax_cfm/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>/blog/jax_cfm/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> jax
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> optax
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Nikolai Köhler</title><link>https://nklkhlr.github.io/</link><description>Recent content in News on Nikolai Köhler</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nklkhlr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Conditional Flow Matching in JAX</title><link>https://nklkhlr.github.io/blog/jax_cfm/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/blog/jax_cfm/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#81c8be">import&lt;/span> &lt;span style="color:#ef9f76">jax&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#81c8be">import&lt;/span> &lt;span style="color:#ef9f76">optax&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> jaxcfm
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Blog</title><link>/blog/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>/blog/</guid><description>&lt;p>Future blog post topics&lt;/p>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#81c8be">import&lt;/span> &lt;span style="color:#ef9f76">jaxcfm&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Blog</title><link>https://nklkhlr.github.io/blog/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/blog/</guid><description>&lt;p>Future blog post topics&lt;/p>
 &lt;ul>
 &lt;li>machine learning and topological data analysis applications in computational biology&lt;/li>
 &lt;li>ML for spatio-temporal data&lt;/li>
-&lt;li>&lt;a href="https://jax.readthedocs.io">JAX&lt;/a>-related topics&lt;/li>
+&lt;li>&lt;a href="https://jax.readthedocs.io" class="external-link" target="_blank" rel="noopener">JAX&lt;/a>-related topics&lt;/li>
 &lt;/ul>
 &lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted --></description></item><item><title>Talks</title><link>/talks/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>/talks/</guid><description>&lt;h1 id="talks">Talks&lt;/h1>
+&lt;!-- raw HTML omitted --></description></item><item><title>Talks</title><link>https://nklkhlr.github.io/talks/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/talks/</guid><description>&lt;h1 id="talks">
+ Talks
+ &lt;a class="heading-link" href="#talks">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;strong>Reaction-Centered Metabolic Network Analysis&lt;/strong>&lt;br>
-13/10/2022, &lt;a href="https://www.munichmetabolomics.com/">Munich Metabolomics Meeting 2022&lt;/a>&lt;br>
-&lt;a href="/talks/MMM_2022.pdf">Slides&lt;/a>&lt;/p>
+13/10/2022, &lt;a href="https://www.munichmetabolomics.com/" class="external-link" target="_blank" rel="noopener">Munich Metabolomics Meeting 2022&lt;/a>&lt;br>
+&lt;a href="https://nklkhlr.github.io/talks/MMM_2022.pdf" >Slides&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;strong>Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data&lt;/strong>&lt;br>
-10/10/2022, &lt;a href="https://easychair.org/smart-program/ICSB2022/2022-10-10.html">ICSB 2022&lt;/a>&lt;br>
-&lt;a href="/talks/LINEX_ICSB22.pdf">Slides&lt;/a>&lt;/p>
+10/10/2022, &lt;a href="https://easychair.org/smart-program/ICSB2022/2022-10-10.html" class="external-link" target="_blank" rel="noopener">ICSB 2022&lt;/a>&lt;br>
+&lt;a href="https://nklkhlr.github.io/talks/LINEX_ICSB22.pdf" >Slides&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;strong>Lipid metabolic network analysis for inferring mechanistic changes in enzyme activity&lt;/strong>&lt;br>
-21/03/2022, &lt;a href="http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf">10&lt;span class="has-mathjax">\(^{th}\)&lt;/span>
+21/03/2022, &lt;a href="http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf" class="external-link" target="_blank" rel="noopener">10&lt;span class="has-mathjax">\(^{th}\)&lt;/span>
  Workshop in Lipidomics&lt;/a>&lt;br>
-&lt;a href="/talks/LINEX_FoodLipidomicsAveiro.pdf">Slides&lt;/a>&lt;/p>
+&lt;a href="https://nklkhlr.github.io/talks/LINEX_FoodLipidomicsAveiro.pdf" >Slides&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;!-- raw HTML omitted -->
@@ -33,44 +39,74 @@
 &lt;li>
 &lt;p>&lt;strong>Network-based Lipidomics Analysis using the Lipid Network Explorer&lt;/strong> (best presentation award)&lt;br>
 01/12/2021, Virtual Podium Asia Pacific&lt;br>
-&lt;a href="https://docs.google.com/presentation/d/1HZsBA1jRg4-gxg0PMUwjOLBoirgjb9Lqjtr_1TUEAJM/edit?usp=sharing">Slides&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Investigation Global Lipidome Alterations with the Lipid Newtork Explorer&lt;/strong>&lt;br>
-08/10/2021, &lt;a href="https://ils2021.org/program#ils-friday">1&lt;span class="has-mathjax">\(^{st}\)&lt;/span>
- ILS conference/7&lt;span class="has-mathjax">\(^{th}\)&lt;/span>
- Lipidomics Forum&lt;/a>&lt;br>
-&lt;a href="https://exbio.wzw.tum.de/ils2021/">Details and slides&lt;/a>&lt;/p></description></item><item><title>Publications</title><link>/publications/</link><pubDate>Wed, 28 Jul 2021 09:56:29 +0200</pubDate><guid>/publications/</guid><description>&lt;h2 id="2024">2024&lt;/h2>
-&lt;h3 id="preprints">Preprints&lt;/h3>
-&lt;p>&lt;strong>&lt;a href="https://doi.org/10.1101/2024.10.07.617094">LipiDetective-a deep learning model for the identification of molecular lipid species in tandem mass spectra&lt;/a>&lt;/strong>&lt;br>
+&lt;a href="https://docs.google.com/presentation/d/1HZsBA1jRg4-gxg0PMUwjOLBoirgjb9Lqjtr_1TUEAJM/edit?usp=sharing" class="external-link" target="_blank" rel="noopener">Slides&lt;/a>&lt;/p></description></item><item><title>Publications</title><link>https://nklkhlr.github.io/publications/</link><pubDate>Wed, 28 Jul 2021 09:56:29 +0200</pubDate><guid>https://nklkhlr.github.io/publications/</guid><description>&lt;h2 id="2024">
+ 2024
+ &lt;a class="heading-link" href="#2024">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="preprints">
+ Preprints
+ &lt;a class="heading-link" href="#preprints">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="https://doi.org/10.1101/2024.10.07.617094" class="external-link" target="_blank" rel="noopener">LipiDetective-a deep learning model for the identification of molecular lipid species in tandem mass spectra&lt;/a>&lt;/strong>&lt;br>
 Vivian Würf, &lt;strong>Nikolai Köhler&lt;/strong>, Florian Molnar, Lisa Hahnefeld, Robert Gurke, Michael Witting, Josch Konstantin Pauling&lt;br>
 &lt;em>bioRxiv&lt;/em>, 2024&lt;br>
-&lt;a href="/citations/wuerf2024lipidetective.bib">Citation&lt;/a>&lt;/p>
-&lt;h2 id="2023">2023&lt;/h2>
-&lt;h3 id="preprints-1">Preprints&lt;/h3>
-&lt;p>&lt;strong>&lt;a href="https://doi.org/10.1101/2023.05.15.540613">Identification and Integration of Key-Metabolic Reactions from Untargeted Metabolomics Data&lt;/a>&lt;/strong>&lt;br>
-&lt;strong>Nikolai Köhler&lt;/strong>, Vivian Würf, Tim Daniel Rose and Josch Konstantin Pauling&lt;br>
-&lt;em>bioRxiv&lt;/em>, 2023&lt;br>
-&lt;a href="/citations/koehler2023mantra.bib">Citation&lt;/a>&lt;/p>
-&lt;p>&lt;strong>&lt;a href="https://doi.org/10.1101/2023.12.21.23300351">Exclusive Enteral Nutrition Initiates Individual Protective Microbiome Changes to Induce Remission in Pediatric Crohn’s Disease&lt;/a>&lt;/strong>&lt;br>
+&lt;a href="https://nklkhlr.github.io/citations/wuerf2024lipidetective.bib" >Citation&lt;/a>&lt;/p>
+&lt;h3 id="journal-articles">
+ Journal Articles
+ &lt;a class="heading-link" href="#journal-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>&lt;a href="https://doi.org/10.1101/2023.12.21.23300351" class="external-link" target="_blank" rel="noopener">Exclusive Enteral Nutrition Initiates Individual Protective Microbiome Changes to Induce Remission in Pediatric Crohn’s Disease&lt;/a>&lt;/strong>&lt;br>
 Deborah Haecker, Kolja Siebert, Byron J Smith, &lt;strong>Nikolai Köhler&lt;/strong>, Aritra Mahapatra, Helena Heimes, Amira Metwaly, Hannes Hölz, Quirin Manz, Federica De Zen, Jeannine Heetmeyer, Katharina Socas, Giang Le Thi, Chen Meng, Karin Kleigrewe, Josch K Pauling, Klaus Neuhaus, Markus List, Katherine S Pollard, Tobias Schwerd, Dirk Haller&lt;br>
-&lt;em>medRxiv&lt;/em>, 2023&lt;br>
-&lt;a href="/citations/haecker2023exclusive.bib">Citation&lt;/a>&lt;/p></description></item><item><title>About</title><link>/about/</link><pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>I am a Postdoctoral Researcher in the &lt;a href="https://velten-group.org">Velten lab&lt;/a> working on machine learning methods to analyze spatial omics data.
-Prior to my current role, I was a PhD Student in Bioinformatics in the &lt;a href="https://www.lipitum.de">LipiTUM group&lt;/a> at the &lt;a href="https://www1.ls.tum.de/en/exbio/home/">Chair of Experimental Bioinformatics&lt;/a> at the Technical University of Munich.
+&lt;em>Cell Host &amp;amp; Microbe&lt;/em>, 2024&lt;br>
+&lt;a href="https://nklkhlr.github.io/citations/haecker2024exclusive.bib" >Citation&lt;/a>&lt;/p></description></item><item><title>About</title><link>https://nklkhlr.github.io/about/</link><pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/about/</guid><description>&lt;p>I am a Postdoctoral Researcher in the &lt;a href="https://velten-group.org" class="external-link" target="_blank" rel="noopener">Velten lab&lt;/a> working on machine learning methods to analyze spatial omics data.
+Prior to my current role, I was a PhD Student in Bioinformatics in the &lt;a href="https://www.lipitum.de" class="external-link" target="_blank" rel="noopener">LipiTUM group&lt;/a> at the &lt;a href="https://www1.ls.tum.de/en/exbio/home/" class="external-link" target="_blank" rel="noopener">Chair of Experimental Bioinformatics&lt;/a> at the Technical University of Munich.
 The main focus of my research currently lies on computational methods for the interpretation and (multi-omics) integration of metabolomics data in a systems biology context.
 For developing these algorithms I am utilising methods from (classical) graph-theory, machine learning and deep-learning.
-I am also interested in applying computational models to real-world data. At the moment this means mostly biomedical data. However, I have spend quite some time on applications in plant science in the past, as well.&lt;/p></description></item><item><title>Teaching</title><link>/teaching/</link><pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>&lt;h2 id="thesis-supervision">Thesis Supervision&lt;/h2>
-&lt;h3 id="bioinformatics">Bioinformatics&lt;/h3>
+I am also interested in applying computational models to real-world data. At the moment this means mostly biomedical data. However, I have spend quite some time on applications in plant science in the past, as well.&lt;/p></description></item><item><title>Teaching</title><link>https://nklkhlr.github.io/teaching/</link><pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/teaching/</guid><description>&lt;h2 id="thesis-supervision">
+ Thesis Supervision
+ &lt;a class="heading-link" href="#thesis-supervision">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="bioinformatics">
+ Bioinformatics
+ &lt;a class="heading-link" href="#bioinformatics">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
 &lt;ul>
 &lt;li>&amp;ldquo;Development of a Deep Learning Model for the Detection and Prediction of Characteristic Fragmentation Patterns in Lipid Mass Spectra&amp;rdquo;&lt;/li>
 &lt;li>&amp;ldquo;Network Integration of Metabolome and Microbiome Data using Local Search Optimisation&amp;rdquo;&lt;/li>
 &lt;li>&amp;ldquo;Imputing Common Lipids to Improve Network Connectivity of Lipid Metabolic Networks&amp;rdquo;&lt;/li>
 &lt;/ul>
-&lt;h3 id="molecular-biotechnology">Molecular Biotechnology&lt;/h3>
+&lt;h3 id="molecular-biotechnology">
+ Molecular Biotechnology
+ &lt;a class="heading-link" href="#molecular-biotechnology">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
 &lt;ul>
 &lt;li>&amp;ldquo;A Network-based Meta-Analysis to Link Nutritional Metabolites to Lipid Metabolism and Related Diseases&amp;rdquo;&lt;/li>
 &lt;/ul>
-&lt;h2 id="lectures-and-seminars">Lectures and Seminars&lt;/h2>
+&lt;h2 id="lectures-and-seminars">
+ Lectures and Seminars
+ &lt;a class="heading-link" href="#lectures-and-seminars">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
 &lt;ul>
 &lt;li>Computational Biochemistry (Winter 20/21, Winter 21/22, Winter 22/23)&lt;/li>
 &lt;li>Systems BioMedicine Course Project Supervision (Winter 20/21, Winter 21/22, Winter 22/23)&lt;/li>
