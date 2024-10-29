@@ -8,10 +8,21 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.extensions]
+			[markup.goldmark.extensions.passthrough]
+			enable = true
+			[markup.goldmark.extensions.passthrough.delimiters]
+			block = [['\[', '\]'], ['$$', '$$']]
+			inline = [['\(', '\)']]
+	[markup.highlight]
+	style = "catppuccin-frappe"
+
 [params]
 author = "Nikolai K\u00F6hler"
 description = "Nikolai K\u00F6hler's personal website"
-keywords = "blog,bioinformatics,metabolomics"
+keywords = "blog,bioinformatics,metabolomics,spatial omics, optimal transport,tda"
 info = ["Hi, I'm Nikolai, a Postdoctoral Researcher in the Velten lab at the University of Heidelberg working on Machine Learning for Spatial Omics data. Previously I did my doctorate in Computational Biology at the Technical University of Munich."]
 avatarURL = "images/avatar.png"
 footerContent = ""
@@ -30,6 +41,8 @@ rtl = false
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
 colorScheme = "auto"
+# Enable mathjax
+math = true
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count
@@ -37,44 +50,38 @@ maxSeeAlsoItems = 5
 
 [[params.social]]
 name = "Mail"
-icon = "fa fa-envelope"
+icon = "fa fa-envelope fa-2x"
 weight = 1
 url = "mailto:nikolai.koehler@cos.uni-heidelberg.de"
 
 
 [[params.social]]
 name = "Github"
-icon = "fa-brands fa-github"
+icon = "fa-brands fa-github fa-2x"
 weight = 2
 url = "https://github.com/nklkhlr/"
 
-# [[params.social]]
-# name = "Gitlab"
-# icon = "fa fa-gitlab"
-# weight = 3
-# url = "https://gitlab.lrz.de/nklkhlr/"
-
 [[params.social]]
 name = "Twitter"
-icon = "fa-brands fa-x-twitter"
+icon = "fa-brands fa-x-twitter fa-2x"
 weight = 6
 url = "https://twitter.com/nklkhlr/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa-brands fa-linkedin"
+icon = "fa-brands fa-linkedin fa-2x"
 weight = 3
 url = "https://www.linkedin.com/in/nikolai-köhler-a79b3b300"
 
 [[params.social]]
 name = "Orcid"
-icon = "fa-brands fa-orcid"
+icon = "fa-brands fa-orcid fa-2x"
 weight = 4
 url = "https://orcid.org/0000-0002-5103-883X"
 
 [[params.social]]
 name = "Scholar"
-icon = "fa-brands fa-google-scholar"
+icon = "fa-brands fa-google-scholar fa-2x"
 weight = 5
 url = "https://scholar.google.com/citations?user=R-szd0IAAAAJ&hl=en&oi=ao"
 
@@ -105,4 +112,9 @@ url = "teaching/"
 name = "About"
 weight = 5
 url = "about/"
+
+[[languages.en.menu.main]]
+name = "CV"
+weight = 6
+url = "/cv/NikolaiKoehler_academicCV2410.pdf"
 

@@ -2,7 +2,17 @@
 title: "Publications"
 date: 2021-07-28T09:56:29+02:00
 draft: false
+params:
+    math: true
 ---
+
+## 2024
+
+### Preprints
+__[LipiDetective-a deep learning model for the identification of molecular lipid species in tandem mass spectra](https://doi.org/10.1101/2024.10.07.617094)__\
+Vivian Würf, **Nikolai Köhler**, Florian Molnar, Lisa Hahnefeld, Robert Gurke, Michael Witting, Josch Konstantin Pauling\
+*bioRxiv*, 2024\
+[Citation](/citations/wuerf2024lipidetective.bib)
 
 
 ## 2023
@@ -19,7 +29,8 @@ Deborah Haecker, Kolja Siebert, Byron J Smith, **Nikolai Köhler**, Aritra Mahap
 [Citation](/citations/haecker2023exclusive.bib)
 
 __[Barley shows reduced Fusarium Head Blight under drought and modular expression of differential expressed genes under combined stress](https://doi.org/10.1101/2023.02.15.528674)__\
-Felix Hoheneder{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Christina E Steidele{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Maxim Messerer, Klaus Mayer, **Nikolai Köhler**, Christine Wurmser, Michael Heß, Michael Gigl, Corinna Dawid, Remco Stam, Ralph Hückelhoven\
+<!--Felix Hoheneder{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Christina E Steidele{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Maxim Messerer, Klaus Mayer, **Nikolai Köhler**, Christine Wurmser, Michael Heß, Michael Gigl, Corinna Dawid, Remco Stam, Ralph Hückelhoven\-->
+Felix Hoheneder\(^\dagger\), Christina E Steidele$^{\dagger}$, Maxim Messerer, Klaus Mayer, **Nikolai Köhler**, Christine Wurmser, Michael Heß, Michael Gigl, Corinna Dawid, Remco Stam, Ralph Hückelhoven\
 *bioRxiv*, 2023\
 [Citation](/citations/hohender2023barley.bib)
 

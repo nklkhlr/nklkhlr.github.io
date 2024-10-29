@@ -2,6 +2,7 @@
 title: "Talks"
 date: 2022-02-25
 draft: false
+math: true
 ---
 
 # Talks
