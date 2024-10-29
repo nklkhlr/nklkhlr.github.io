@@ -14,6 +14,12 @@ Vivian Würf, **Nikolai Köhler**, Florian Molnar, Lisa Hahnefeld, Robert Gurke,
 *bioRxiv*, 2024\
 [Citation](/citations/wuerf2024lipidetective.bib)
 
+### Journal Articles
+__[Exclusive Enteral Nutrition Initiates Individual Protective Microbiome Changes to Induce Remission in Pediatric Crohn’s Disease](https://doi.org/10.1101/2023.12.21.23300351)__\
+Deborah Haecker, Kolja Siebert, Byron J Smith, **Nikolai Köhler**, Aritra Mahapatra, Helena Heimes, Amira Metwaly, Hannes Hölz, Quirin Manz, Federica De Zen, Jeannine Heetmeyer, Katharina Socas, Giang Le Thi, Chen Meng, Karin Kleigrewe, Josch K Pauling, Klaus Neuhaus, Markus List, Katherine S Pollard, Tobias Schwerd, Dirk Haller\
+*Cell Host & Microbe*, 2024\
+[Citation](/citations/haecker2024exclusive.bib)
+
 
 ## 2023
 
@@ -23,11 +29,6 @@ __[Identification and Integration of Key-Metabolic Reactions from Untargeted Met
 *bioRxiv*, 2023\
 [Citation](/citations/koehler2023mantra.bib)
 
-__[Exclusive Enteral Nutrition Initiates Individual Protective Microbiome Changes to Induce Remission in Pediatric Crohn’s Disease](https://doi.org/10.1101/2023.12.21.23300351)__\
-Deborah Haecker, Kolja Siebert, Byron J Smith, **Nikolai Köhler**, Aritra Mahapatra, Helena Heimes, Amira Metwaly, Hannes Hölz, Quirin Manz, Federica De Zen, Jeannine Heetmeyer, Katharina Socas, Giang Le Thi, Chen Meng, Karin Kleigrewe, Josch K Pauling, Klaus Neuhaus, Markus List, Katherine S Pollard, Tobias Schwerd, Dirk Haller\
-*medRxiv*, 2023\
-[Citation](/citations/haecker2023exclusive.bib)
-
 __[Barley shows reduced Fusarium Head Blight under drought and modular expression of differential expressed genes under combined stress](https://doi.org/10.1101/2023.02.15.528674)__\
 <!--Felix Hoheneder{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Christina E Steidele{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Maxim Messerer, Klaus Mayer, **Nikolai Köhler**, Christine Wurmser, Michael Heß, Michael Gigl, Corinna Dawid, Remco Stam, Ralph Hückelhoven\-->
 Felix Hoheneder\(^\dagger\), Christina E Steidele$^{\dagger}$, Maxim Messerer, Klaus Mayer, **Nikolai Köhler**, Christine Wurmser, Michael Heß, Michael Gigl, Corinna Dawid, Remco Stam, Ralph Hückelhoven\
@@ -35,13 +36,13 @@ Felix Hoheneder\(^\dagger\), Christina E Steidele$^{\dagger}$, Maxim Messerer, K
 [Citation](/citations/hohender2023barley.bib)
 
 __[ATF6 activation alters colonic lipid metabolism causing tumor-associated microbial adaptation](https://doi.org/10.1101/2023.11.03.565267)__\
-Olivia I. Coleman{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Adam Sorbie{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Sandra Bierwith, Janine Kövilein, Miriam von Stern, **Nikolai Köhler**, Jakob Wirbel, Christina Schmidt, Tim Kacprowski, Andreas Dunkel, Josh K. Pauling Johannes Plagge, Diego Mediel-Cuadra, Sophia Wagner, Tingying Peng, Thomas Metzler, Clemens Schafmayer, Sebastian Hinz, Christian Röder, Christoph Röcken, Bärbel Stecher, Philip Rosenstiel, Katja Steiger, Moritz Jesinghaus, Gerhard Liebisch, Josef Ecker, Georg Zeller, Klaus-Peter Janssen, Dirk Haller\
+Olivia I. Coleman\(^\dagger\), Adam Sorbie\(^\dagger\), Sandra Bierwith, Janine Kövilein, Miriam von Stern, **Nikolai Köhler**, Jakob Wirbel, Christina Schmidt, Tim Kacprowski, Andreas Dunkel, Josh K. Pauling Johannes Plagge, Diego Mediel-Cuadra, Sophia Wagner, Tingying Peng, Thomas Metzler, Clemens Schafmayer, Sebastian Hinz, Christian Röder, Christoph Röcken, Bärbel Stecher, Philip Rosenstiel, Katja Steiger, Moritz Jesinghaus, Gerhard Liebisch, Josef Ecker, Georg Zeller, Klaus-Peter Janssen, Dirk Haller\
 *bioRxiv*, 2023\
 [Citation](/citations/coleman2023atf6.bib)
 
 ### Journal Articles
 __[Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data](https://academic.oup.com/bib/article/24/1/bbac572/6966533)__\
-Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, **Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk, Lucie Klischat, Olga Lazareva and Josch Konstantin Pauling\
+Tim Daniel Rose\(^\dagger\), **Nikolai Köhler**\(^\dagger\), Lisa Falk, Lucie Klischat, Olga Lazareva and Josch Konstantin Pauling\
 *Briefings in Bioinformatics*, 2023\
 [Citation](/citations/rose2023linex2.bib)
 
@@ -60,7 +61,7 @@ Tim Daniel Rose, Thibault Bechtler, Octavia-Andreea Ciora, Kim Anh Lilian Le, Fl
 [Citation](/citations/rose2022mosbi.bib)
 
 __[Kupffer cells are protective in alcoholic steatosis.](https://www.sciencedirect.com/science/article/abs/pii/S0925443922000680)__\
-**Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Marcus Höring{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Beate Czepukojc{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Christa Buechler, Tarek Kröhler, Johannes Haybaeck, Gerhard Liebisch, Josch K. Pauling, Sonja M. Kessler, Alexandra K. Kiemer\
+**Nikolai Köhler**\(^\dagger\), Marcus Höring\(^\dagger\), Beate Czepukojc\(^\dagger\), Tim Daniel Rose\(^\dagger\), Christa Buechler, Tarek Kröhler, Johannes Haybaeck, Gerhard Liebisch, Josch K. Pauling, Sonja M. Kessler, Alexandra K. Kiemer\
 *Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease*, 2022\
 [Citation](/citations/koehler2022kupffer.bib)
 
@@ -69,7 +70,7 @@ __[Kupffer cells are protective in alcoholic steatosis.](https://www.sciencedire
 
 ### Journal Articles
 __[Investigating Global Lipidome Alterations with the Lipid Network Explorer.](https://www.mdpi.com/2218-1989/11/8/488)__\
-**Nikolai Köhler**{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Tim Daniel Rose{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}}, Lisa Falk and Josch Konstantin Pauling\
+**Nikolai Köhler**\(^\dagger\), Tim Daniel Rose\(^\dagger\), Lisa Falk and Josch Konstantin Pauling\
 *Metabolites*, 2021\
 [Citation](/citations/koehler2021linex.bib)
 
@@ -94,5 +95,5 @@ Sebastian Schramm, **Nikolai Köhler**, Wilfried Rozhon\
 \
 \
 \
-<small>{{<mathjax/inline>}}\(^{\dagger}\){{</mathjax/inline>}} these authors contributed equally</small>
+<small>\(^{\dagger}\) these authors contributed equally</small>
 
