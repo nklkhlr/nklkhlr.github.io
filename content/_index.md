@@ -2,6 +2,7 @@
 title: "News"
 date: 2022-03-02
 draft: false
+math: true
 ---
 
 * 04/2024:

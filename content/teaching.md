@@ -17,4 +17,6 @@ draft: false
 * Computational Biochemistry (Winter 20/21, Winter 21/22, Winter 22/23)
 * Systems BioMedicine Course Project Supervision (Winter 20/21, Winter 21/22, Winter 22/23)
 * Problem Based Learning (Winter 21/22)
-
+* Data Analysis for the Life Sciences (Winter 2024)
+* Data Analysis for RNA Sequencing (Winter 2024)
+* Optimal Transport and Applications (Summer 2025)

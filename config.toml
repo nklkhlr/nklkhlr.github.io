@@ -54,18 +54,17 @@ icon = "fa fa-envelope fa-2x"
 weight = 1
 url = "mailto:nikolai.koehler@cos.uni-heidelberg.de"
 
-
 [[params.social]]
-name = "Github"
+name = "GitHub"
 icon = "fa-brands fa-github fa-2x"
 weight = 2
 url = "https://github.com/nklkhlr/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa-brands fa-x-twitter fa-2x"
+name = "Bluesky"
+icon = "fa-brands fa-bluesky fa-2x"
 weight = 6
-url = "https://twitter.com/nklkhlr/"
+url = "https://bsky.app/profile/nklkhlr.bsky.social"
 
 [[params.social]]
 name = "LinkedIn"
@@ -116,5 +115,5 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 6
-url = "/cv/nikolaikoehler_academiccv2410.pdf"
+url = "/cv/nikolaikoehler_academiccv2501.pdf"
 

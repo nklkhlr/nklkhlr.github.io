@@ -16,7 +16,7 @@ Vivian Würf, **Nikolai Köhler**, Florian Molnar, Lisa Hahnefeld, Robert Gurke,
 
 ### Journal Articles
 __[Exclusive Enteral Nutrition Initiates Individual Protective Microbiome Changes to Induce Remission in Pediatric Crohn’s Disease](https://doi.org/10.1101/2023.12.21.23300351)__\
-Deborah Haecker, Kolja Siebert, Byron J Smith, **Nikolai Köhler**, Aritra Mahapatra, Helena Heimes, Amira Metwaly, Hannes Hölz, Quirin Manz, Federica De Zen, Jeannine Heetmeyer, Katharina Socas, Giang Le Thi, Chen Meng, Karin Kleigrewe, Josch K Pauling, Klaus Neuhaus, Markus List, Katherine S Pollard, Tobias Schwerd, Dirk Haller\
+Deborah Haecker, Kolja Siebert, Byron J Smith, **Nikolai Köhler**, Alessandra Riva, Aritra Mahapatra, Helena Heimes, Jiatong Nie, Amira Metwaly, Hannes Hölz, Quirin Manz, Federica De Zen, Jeannine Heetmeyer, Katharina Socas, Giang Le Thi, Chen Meng, Karin Kleigrewe, Josch K Pauling, Klaus Neuhaus, Markus List, Katherine S Pollard, Tobias Schwerd, Dirk Haller\
 *Cell Host & Microbe*, 2024\
 [Citation](/citations/haecker2024exclusive.bib)
 
