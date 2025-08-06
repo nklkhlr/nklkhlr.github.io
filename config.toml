@@ -115,5 +115,5 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 6
-url = "/cv/nikolaikoehler_academiccv2508.pdf"
+url = "/cv/nikolaikoehler_academicCV2508.pdf"
 
