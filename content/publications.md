@@ -6,6 +6,20 @@ params:
     math: true
 ---
 
+## 2025
+
+### Preprints
+__[Navigating the Lipid Universe with LipidLibrarian: A Cross-Linked Database for Lipidomics Data Integration](https://doi.org/10.1101/2025.06.26.661298)__
+Felix Niedermaier, Konstantinos Mechteridis, Konstantin Pelz, Vivian Wuerf, **Nikolai Köhler**, Josch K Pauling
+*bioRxiv*, 2025
+[Citation](/citations/niedermaier2025lipidlibrarian.bib)
+
+### Journal Articles
+__[Endoscopic healing in pediatric IBD perpetuates a persistent signature defined by Th17 cells with molecular and microbial drivers of disease](https://doi.org/10.1016/j.xcrm.2025.102236)__
+Kolja Siebert, Tim Faro$^{\dagger}$, **Nikolai Köhler**$^{\dagger}$, Hannes Hölz, Sebastian Jarosch, Monica Matchado, Deborah Häcker, Federica De Zen, Mohammad Samer Hajji, Eberhard Lurz, Sibylle Koletzko, Josch K Pauling, Katja Steiger, Klaus Neuhaus, Caspar Ohnmacht, Markus List, Dirk H Busch, Dirk Haller, Tobias Schwerd
+*Cell Reports Medicine*, 2025
+[Citation](/citations/siebert2025endoscopic.bib)
+
 ## 2024
 
 ### Preprints
