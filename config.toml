@@ -17,7 +17,7 @@ enableEmoji = true
 			block = [['\[', '\]'], ['$$', '$$']]
 			inline = [['\(', '\)']]
 	[markup.highlight]
-	style = "catppuccin-frappe"
+	style = "catppuccin-mocha"
 
 [params]
 author = "Nikolai K\u00F6hler"
