@@ -20,6 +20,11 @@ Kolja Siebert, Tim Faro$^{\dagger}$, **Nikolai Köhler**$^{\dagger}$, Hannes Hö
 *Cell Reports Medicine*, 2025
 [Citation](/citations/siebert2025endoscopic.bib)
 
+__[ATF6 activation alters colonic lipid metabolism causing tumor-associated microbial adaptation](https://doi.org/10.1038/s42255-025-01350-6)__
+Olivia I Colema\(^\dagger\)n, Adam Sorbie\(^\dagger\), Alessandra Riva, Miriam von Stern, Stephanie Kuhls, Denise M Selegato, **Nikolai Köhler**, Jakob Wirbel, Tim Kacprowski, Andreas Dunkel, Josh K Pauling, Johannes Plagge, Diego Mediel-Cuadra, Sophia Wagner, Ines Chadly, Sandra Bierwith, Tingying Peng, Thomas Metzler, Clemens Schafmayer, Sebastian Hinz, Christian Röder, Christoph Röcken, Michael Zimmermann, Philip Rosenstiel, Katja Steiger, Moritz Jesinghaus, Gerhard Liebisch, Josef Ecker, Christina Schmidt, Georg Zeller, Klaus-Peter Janssen, Dirk Haller
+*Nature Metabolism*, 2025
+[Citation](/citations/coleman2023atf6.bib)
+
 ## 2024
 
 ### Preprints
@@ -49,10 +54,6 @@ Felix Hoheneder\(^\dagger\), Christina E Steidele$^{\dagger}$, Maxim Messerer, K
 *bioRxiv*, 2023
 [Citation](/citations/hohender2023barley.bib)
 
-__[ATF6 activation alters colonic lipid metabolism causing tumor-associated microbial adaptation](https://doi.org/10.1101/2023.11.03.565267)__
-Olivia I. Coleman\(^\dagger\), Adam Sorbie\(^\dagger\), Sandra Bierwith, Janine Kövilein, Miriam von Stern, **Nikolai Köhler**, Jakob Wirbel, Christina Schmidt, Tim Kacprowski, Andreas Dunkel, Josh K. Pauling Johannes Plagge, Diego Mediel-Cuadra, Sophia Wagner, Tingying Peng, Thomas Metzler, Clemens Schafmayer, Sebastian Hinz, Christian Röder, Christoph Röcken, Bärbel Stecher, Philip Rosenstiel, Katja Steiger, Moritz Jesinghaus, Gerhard Liebisch, Josef Ecker, Georg Zeller, Klaus-Peter Janssen, Dirk Haller\
-*bioRxiv*, 2023
-[Citation](/citations/coleman2023atf6.bib)
 
 ### Journal Articles
 __[Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data](https://academic.oup.com/bib/article/24/1/bbac572/6966533)__
