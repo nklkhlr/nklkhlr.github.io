@@ -1,121 +1,132 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Nikolai Köhler</title><link>https://nklkhlr.github.io/</link><description>Recent content in News on Nikolai Köhler</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nklkhlr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Conditional Flow Matching in JAX</title><link>https://nklkhlr.github.io/blog/jax_cfm/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/blog/jax_cfm/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#cdd6f4;background-color:#1e1e2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#94e2d5">import&lt;/span> &lt;span style="color:#fab387">jax&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#94e2d5">import&lt;/span> &lt;span style="color:#fab387">optax&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#94e2d5">import&lt;/span> &lt;span style="color:#fab387">jaxcfm&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Blog</title><link>https://nklkhlr.github.io/blog/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/blog/</guid><description>&lt;p>Future blog post topics&lt;/p>
-&lt;ul>
-&lt;li>machine learning and topological data analysis applications in computational biology&lt;/li>
-&lt;li>ML for spatio-temporal data&lt;/li>
-&lt;li>&lt;a href="https://jax.readthedocs.io" class="external-link" target="_blank" rel="noopener">JAX&lt;/a>-related topics&lt;/li>
-&lt;/ul></description></item><item><title>Talks</title><link>https://nklkhlr.github.io/talks/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/talks/</guid><description>&lt;h1 id="talks">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on Nikolai Köhler</title><link>https://nklkhlr.github.io/</link><description>Recent content in News on Nikolai Köhler</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nklkhlr.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Conditional Flow Matching in JAX</title><link>https://nklkhlr.github.io/blog/jax_cfm/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/blog/jax_cfm/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#cdd6f4;background-color:#1e1e2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#94e2d5"&gt;import&lt;/span&gt; &lt;span style="color:#fab387"&gt;jax&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#94e2d5"&gt;import&lt;/span&gt; &lt;span style="color:#fab387"&gt;optax&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#94e2d5"&gt;import&lt;/span&gt; &lt;span style="color:#fab387"&gt;jaxcfm&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Blog</title><link>https://nklkhlr.github.io/blog/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/blog/</guid><description>&lt;p&gt;Future blog post topics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;machine learning and topological data analysis applications in computational biology&lt;/li&gt;
+&lt;li&gt;ML for spatio-temporal data&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jax.readthedocs.io" class="external-link" target="_blank" rel="noopener"&gt;JAX&lt;/a&gt;-related topics&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Talks</title><link>https://nklkhlr.github.io/talks/</link><pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/talks/</guid><description>&lt;h1 id="talks"&gt;
  Talks
- &lt;a class="heading-link" href="#talks">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h1>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Reaction-Centered Metabolic Network Analysis&lt;/strong>&lt;br>
-13/10/2022, &lt;a href="https://www.munichmetabolomics.com/" class="external-link" target="_blank" rel="noopener">Munich Metabolomics Meeting 2022&lt;/a>&lt;br>
-&lt;a href="https://nklkhlr.github.io/talks/MMM_2022.pdf" >Slides&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data&lt;/strong>&lt;br>
-10/10/2022, &lt;a href="https://easychair.org/smart-program/ICSB2022/2022-10-10.html" class="external-link" target="_blank" rel="noopener">ICSB 2022&lt;/a>&lt;br>
-&lt;a href="https://nklkhlr.github.io/talks/LINEX_ICSB22.pdf" >Slides&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Lipid metabolic network analysis for inferring mechanistic changes in enzyme activity&lt;/strong>&lt;br>
-21/03/2022, &lt;a href="http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf" class="external-link" target="_blank" rel="noopener">10&lt;span class="has-mathjax">\(^{th}\)&lt;/span>
- Workshop in Lipidomics&lt;/a>&lt;br>
-&lt;a href="https://nklkhlr.github.io/talks/LINEX_FoodLipidomicsAveiro.pdf" >Slides&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Network-based Lipidomics Analysis using the Lipid Network Explorer&lt;/strong> (best presentation award)&lt;br>
-01/12/2021, Virtual Podium Asia Pacific&lt;br>
-&lt;a href="https://docs.google.com/presentation/d/1HZsBA1jRg4-gxg0PMUwjOLBoirgjb9Lqjtr_1TUEAJM/edit?usp=sharing" class="external-link" target="_blank" rel="noopener">Slides&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Investigation Global Lipidome Alterations with the Lipid Newtork Explorer&lt;/strong>&lt;br>
-08/10/2021, &lt;a href="https://ils2021.org/program#ils-friday" class="external-link" target="_blank" rel="noopener">1&lt;span class="has-mathjax">\(^{st}\)&lt;/span>
- ILS conference/7&lt;span class="has-mathjax">\(^{th}\)&lt;/span>
- Lipidomics Forum&lt;/a>&lt;br>
-&lt;a href="https://exbio.wzw.tum.de/ils2021/" class="external-link" target="_blank" rel="noopener">Details and slides&lt;/a>&lt;/p></description></item><item><title>Publications</title><link>https://nklkhlr.github.io/publications/</link><pubDate>Wed, 28 Jul 2021 09:56:29 +0200</pubDate><guid>https://nklkhlr.github.io/publications/</guid><description>&lt;h2 id="2025">
+ &lt;a class="heading-link" href="#talks"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Reaction-Centered Metabolic Network Analysis&lt;/strong&gt;&lt;br&gt;
+13/10/2022, &lt;a href="https://www.munichmetabolomics.com/" class="external-link" target="_blank" rel="noopener"&gt;Munich Metabolomics Meeting 2022&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://nklkhlr.github.io/talks/MMM_2022.pdf" &gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lipid network and moiety analysis for revealing enzymatic dysregulation and mechanistic alterations from lipidomics data&lt;/strong&gt;&lt;br&gt;
+10/10/2022, &lt;a href="https://easychair.org/smart-program/ICSB2022/2022-10-10.html" class="external-link" target="_blank" rel="noopener"&gt;ICSB 2022&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://nklkhlr.github.io/talks/LINEX_ICSB22.pdf" &gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lipid metabolic network analysis for inferring mechanistic changes in enzyme activity&lt;/strong&gt;&lt;br&gt;
+21/03/2022, &lt;a href="http://www.cesam.ua.pt/files/FOODLIPIDOMICS2.pdf" class="external-link" target="_blank" rel="noopener"&gt;10&lt;span class="has-mathjax"&gt;\(^{th}\)&lt;/span&gt;
+ Workshop in Lipidomics&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://nklkhlr.github.io/talks/LINEX_FoodLipidomicsAveiro.pdf" &gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Network-based Lipidomics Analysis using the Lipid Network Explorer&lt;/strong&gt; (best presentation award)&lt;br&gt;
+01/12/2021, Virtual Podium Asia Pacific&lt;br&gt;
+&lt;a href="https://docs.google.com/presentation/d/1HZsBA1jRg4-gxg0PMUwjOLBoirgjb9Lqjtr_1TUEAJM/edit?usp=sharing" class="external-link" target="_blank" rel="noopener"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Investigation Global Lipidome Alterations with the Lipid Newtork Explorer&lt;/strong&gt;&lt;br&gt;
+08/10/2021, &lt;a href="https://ils2021.org/program#ils-friday" class="external-link" target="_blank" rel="noopener"&gt;1&lt;span class="has-mathjax"&gt;\(^{st}\)&lt;/span&gt;
+ ILS conference/7&lt;span class="has-mathjax"&gt;\(^{th}\)&lt;/span&gt;
+ Lipidomics Forum&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://exbio.wzw.tum.de/ils2021/" class="external-link" target="_blank" rel="noopener"&gt;Details and slides&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Publications</title><link>https://nklkhlr.github.io/publications/</link><pubDate>Wed, 28 Jul 2021 09:56:29 +0200</pubDate><guid>https://nklkhlr.github.io/publications/</guid><description>&lt;h2 id="2025"&gt;
  2025
- &lt;a class="heading-link" href="#2025">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;h3 id="preprints">
+ &lt;a class="heading-link" href="#2025"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="preprints"&gt;
  Preprints
- &lt;a class="heading-link" href="#preprints">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;p>&lt;strong>&lt;a href="https://doi.org/10.1101/2025.06.26.661298" class="external-link" target="_blank" rel="noopener">Navigating the Lipid Universe with LipidLibrarian: A Cross-Linked Database for Lipidomics Data Integration&lt;/a>&lt;/strong>
-Felix Niedermaier, Konstantinos Mechteridis, Konstantin Pelz, Vivian Wuerf, &lt;strong>Nikolai Köhler&lt;/strong>, Josch K Pauling
-&lt;em>bioRxiv&lt;/em>, 2025
-&lt;a href="https://nklkhlr.github.io/citations/niedermaier2025lipidlibrarian.bib" >Citation&lt;/a>&lt;/p>
-&lt;h3 id="journal-articles">
+ &lt;a class="heading-link" href="#preprints"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://doi.org/10.1101/2025.06.26.661298" class="external-link" target="_blank" rel="noopener"&gt;Navigating the Lipid Universe with LipidLibrarian: A Cross-Linked Database for Lipidomics Data Integration&lt;/a&gt;&lt;/strong&gt;
+Felix Niedermaier, Konstantinos Mechteridis, Konstantin Pelz, Vivian Wuerf, &lt;strong&gt;Nikolai Köhler&lt;/strong&gt;, Josch K Pauling
+&lt;em&gt;bioRxiv&lt;/em&gt;, 2025
+&lt;a href="https://nklkhlr.github.io/citations/niedermaier2025lipidlibrarian.bib" &gt;Citation&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="journal-articles"&gt;
  Journal Articles
- &lt;a class="heading-link" href="#journal-articles">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;p>&lt;strong>&lt;a href="https://doi.org/10.1016/j.xcrm.2025.102236" class="external-link" target="_blank" rel="noopener">Endoscopic healing in pediatric IBD perpetuates a persistent signature defined by Th17 cells with molecular and microbial drivers of disease&lt;/a>&lt;/strong>
-Kolja Siebert, Tim Faro$^{\dagger}$, &lt;strong>Nikolai Köhler&lt;/strong>$^{\dagger}$, Hannes Hölz, Sebastian Jarosch, Monica Matchado, Deborah Häcker, Federica De Zen, Mohammad Samer Hajji, Eberhard Lurz, Sibylle Koletzko, Josch K Pauling, Katja Steiger, Klaus Neuhaus, Caspar Ohnmacht, Markus List, Dirk H Busch, Dirk Haller, Tobias Schwerd
-&lt;em>Cell Reports Medicine&lt;/em>, 2025
-&lt;a href="https://nklkhlr.github.io/citations/siebert2025endoscopic.bib" >Citation&lt;/a>&lt;/p></description></item><item><title>About</title><link>https://nklkhlr.github.io/about/</link><pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/about/</guid><description>&lt;p>I am a Postdoctoral Researcher in the &lt;a href="https://velten-group.org" class="external-link" target="_blank" rel="noopener">Velten lab&lt;/a> working on machine learning methods to analyze spatial omics data.
-Prior to my current role, I was a PhD Student in Bioinformatics in the &lt;a href="https://www.lipitum.de" class="external-link" target="_blank" rel="noopener">LipiTUM group&lt;/a> at the &lt;a href="https://www1.ls.tum.de/en/exbio/home/" class="external-link" target="_blank" rel="noopener">Chair of Experimental Bioinformatics&lt;/a> at the Technical University of Munich.
+ &lt;a class="heading-link" href="#journal-articles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://doi.org/10.1016/j.xcrm.2025.102236" class="external-link" target="_blank" rel="noopener"&gt;Endoscopic healing in pediatric IBD perpetuates a persistent signature defined by Th17 cells with molecular and microbial drivers of disease&lt;/a&gt;&lt;/strong&gt;
+Kolja Siebert, Tim Faro$^{\dagger}$, &lt;strong&gt;Nikolai Köhler&lt;/strong&gt;$^{\dagger}$, Hannes Hölz, Sebastian Jarosch, Monica Matchado, Deborah Häcker, Federica De Zen, Mohammad Samer Hajji, Eberhard Lurz, Sibylle Koletzko, Josch K Pauling, Katja Steiger, Klaus Neuhaus, Caspar Ohnmacht, Markus List, Dirk H Busch, Dirk Haller, Tobias Schwerd
+&lt;em&gt;Cell Reports Medicine&lt;/em&gt;, 2025
+&lt;a href="https://nklkhlr.github.io/citations/siebert2025endoscopic.bib" &gt;Citation&lt;/a&gt;&lt;/p&gt;</description></item><item><title>About</title><link>https://nklkhlr.github.io/about/</link><pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/about/</guid><description>&lt;p&gt;I am a Postdoctoral Researcher in the &lt;a href="https://velten-group.org" class="external-link" target="_blank" rel="noopener"&gt;Velten lab&lt;/a&gt; working on machine learning methods to analyze spatial omics data.
+Prior to my current role, I was a PhD Student in Bioinformatics in the &lt;a href="https://www.lipitum.de" class="external-link" target="_blank" rel="noopener"&gt;LipiTUM group&lt;/a&gt; at the &lt;a href="https://www1.ls.tum.de/en/exbio/home/" class="external-link" target="_blank" rel="noopener"&gt;Chair of Experimental Bioinformatics&lt;/a&gt; at the Technical University of Munich.
 The main focus of my research currently lies on computational methods for the interpretation and (multi-omics) integration of metabolomics data in a systems biology context.
 For developing these algorithms I am utilising methods from (classical) graph-theory, machine learning and deep-learning.
-I am also interested in applying computational models to real-world data. At the moment this means mostly biomedical data. However, I have spend quite some time on applications in plant science in the past, as well.&lt;/p></description></item><item><title>Teaching</title><link>https://nklkhlr.github.io/teaching/</link><pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/teaching/</guid><description>&lt;h2 id="thesis-supervision">
+I am also interested in applying computational models to real-world data. At the moment this means mostly biomedical data. However, I have spend quite some time on applications in plant science in the past, as well.&lt;/p&gt;</description></item><item><title>Teaching</title><link>https://nklkhlr.github.io/teaching/</link><pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate><guid>https://nklkhlr.github.io/teaching/</guid><description>&lt;h2 id="thesis-supervision"&gt;
  Thesis Supervision
- &lt;a class="heading-link" href="#thesis-supervision">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;h3 id="bioinformatics">
+ &lt;a class="heading-link" href="#thesis-supervision"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="bioinformatics"&gt;
  Bioinformatics
- &lt;a class="heading-link" href="#bioinformatics">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&amp;ldquo;Development of a Deep Learning Model for the Detection and Prediction of Characteristic Fragmentation Patterns in Lipid Mass Spectra&amp;rdquo;&lt;/li>
-&lt;li>&amp;ldquo;Network Integration of Metabolome and Microbiome Data using Local Search Optimisation&amp;rdquo;&lt;/li>
-&lt;li>&amp;ldquo;Imputing Common Lipids to Improve Network Connectivity of Lipid Metabolic Networks&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;h3 id="molecular-biotechnology">
- Molecular Biotechnology
- &lt;a class="heading-link" href="#molecular-biotechnology">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&amp;ldquo;A Network-based Meta-Analysis to Link Nutritional Metabolites to Lipid Metabolism and Related Diseases&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;h2 id="lectures-and-seminars">
+ &lt;a class="heading-link" href="#bioinformatics"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Development of a Deep Learning Model for the Detection and Prediction of Characteristic Fragmentation Patterns in Lipid Mass Spectra&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Network Integration of Metabolome and Microbiome Data using Local Search Optimisation&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Imputing Common Lipids to Improve Network Connectivity of Lipid Metabolic Networks&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="molecular-biotechnologybiology"&gt;
+ Molecular Biotechnology/Biology
+ &lt;a class="heading-link" href="#molecular-biotechnologybiology"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;A Network-based Meta-Analysis to Link Nutritional Metabolites to Lipid Metabolism and Related Diseases&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Integrating Subcellular Localization Patterns into Embedding Methods for RNA Sequencing Data&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="lectures-and-seminars"&gt;
  Lectures and Seminars
- &lt;a class="heading-link" href="#lectures-and-seminars">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Computational Biochemistry (Winter 20/21, Winter 21/22, Winter 22/23)&lt;/li>
-&lt;li>Systems BioMedicine Course Project Supervision (Winter 20/21, Winter 21/22, Winter 22/23)&lt;/li>
-&lt;li>Problem Based Learning (Winter 21/22)&lt;/li>
-&lt;li>Data Analysis for the Life Sciences (Winter 2024)&lt;/li>
-&lt;li>Data Analysis for RNA Sequencing (Winter 2024)&lt;/li>
-&lt;li>Optimal Transport and Applications (Summer 2025)&lt;/li>
-&lt;/ul></description></item></channel></rss>
+ &lt;a class="heading-link" href="#lectures-and-seminars"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimal Transport and Applications (Summer 2025)&lt;/li&gt;
+&lt;li&gt;Data Analysis for RNA Sequencing (Winter 2024/25)&lt;/li&gt;
+&lt;li&gt;Data Analysis for the Life Sciences (Winter 2024/25)&lt;/li&gt;
+&lt;li&gt;Computational Biochemistry (Winter 2020/21, Winter 2021/22, Winter 2022/23)&lt;/li&gt;
+&lt;li&gt;Systems BioMedicine Course Project Supervision (Winter 2020/21, Winter 2021/22, Winter 2022/23)&lt;/li&gt;
+&lt;li&gt;Problem Based Learning (Winter 2021/22)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="external-courses"&gt;
+ External Courses
+ &lt;a class="heading-link" href="#external-courses"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.embl.org/about/info/course-and-conference-office/events/bia25-01/" class="external-link" target="_blank" rel="noopener"&gt;Advanced Methods in Bioimage Analysis (EMBO Course)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
