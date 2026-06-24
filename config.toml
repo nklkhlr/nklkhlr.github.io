@@ -1,5 +1,5 @@
 baseURL = "https://nklkhlr.github.io/"
-languageCode = "en"
+locale = "en"
 title = "Nikolai K\u00F6hler"
 theme = "hugo-coder"
 pagination.PageSizer = 6
@@ -23,7 +23,9 @@ enableEmoji = true
 author = "Nikolai K\u00F6hler"
 description = "Nikolai K\u00F6hler's personal website"
 keywords = "blog,bioinformatics,metabolomics,spatial omics, optimal transport,tda"
-info = ["Hi, I'm Nikolai, a Postdoctoral Researcher in the Velten lab at the University of Heidelberg working on Machine Learning for Spatial Omics data. Previously I did my doctorate in Computational Biology at the Technical University of Munich."]
+info = [
+"Hi, I'm Nikolai, a Junior Research Group Leader the Leibniz Institute for Food Systems Biology TUM. Previously, I did a Postdoc at Heidelberg University after completing my doctorate at the Techncial University of Munich"
+]
 avatarURL = "images/avatar.png"
 footerContent = ""
 dateFormat = "January 2, 2006"
@@ -41,6 +43,7 @@ rtl = false
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
 colorScheme = "auto"
+customCSS = ["css/custom.css"]
 # Enable mathjax
 math = true
 # Hide the toggle button, along with the associated vertical divider
@@ -52,7 +55,7 @@ maxSeeAlsoItems = 5
 name = "Mail"
 icon = "fa fa-envelope fa-2x"
 weight = 1
-url = "mailto:nikolai.koehler@cos.uni-heidelberg.de"
+url = "mailto:n.koehler.leibniz-lsb@tum.de"
 
 [[params.social]]
 name = "GitHub"
@@ -85,7 +88,7 @@ weight = 5
 url = "https://scholar.google.com/citations?user=R-szd0IAAAAJ&hl=en&oi=ao"
 
 [languages.en]
-languageName = ":uk:"
+label = ":uk:"
 
 [[languages.en.menu.main]]
 name = "Publications"
@@ -115,5 +118,5 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "CV"
 weight = 6
-url = "/cv/nikolaikoehler_academiccv2508.pdf"
+url = "/cv/nikolaikoehler_academiccv2605.pdf"
 

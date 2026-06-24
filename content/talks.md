@@ -6,6 +6,10 @@ math: true
 ---
 
 # Talks
+
+* __Graph-Based Methods for Interpreting Lipidome and Metabolome Data__\
+    [8th Munich Metabolomics Meeting 2026](https://www.munichmetabolomics.com/)
+
 * __Reaction-Centered Metabolic Network Analysis__\
 	13/10/2022, [Munich Metabolomics Meeting 2022](https://www.munichmetabolomics.com/)\
 	[Slides](/talks/MMM_2022.pdf)
